@@ -33,7 +33,7 @@ export default defineConfig({
         //outline:[2,3],
         outlineTitle: '文章摘要',
         socialLinks: [
-	    { icon: 'github', link: 'https://github.com/yousri' },
+	    //{ icon: 'github', link: 'https://github.com/yousri' },
 	    { icon: 'twitter', link: 'https://twitter.com/yousri' },
 	    { icon: 'instagram', link: 'https://instagram.com/imyousri' },
 	]
