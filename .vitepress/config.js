@@ -5,7 +5,8 @@ import { getPosts } from './theme/serverUtils'
 const pageSize = 8
 
 export default defineConfig({
-    title: 'Yousri\'s Thoughts and Writings',
+//    title: 'Yousri\'s Thoughts and Writings',
+    title: 'Yousri\'s Writings',
     base: '/',
     cacheDir: './node_modules/vitepress_cache',
     description: 'blog about notes,salogs,tech,cloudnative,k8s,Cloud Service Provider,CSP',
